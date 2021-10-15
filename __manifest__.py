@@ -6,8 +6,6 @@
         Modulo de Cursos""",
 
     'description': """
-        Open Academy
-        ============
         Open Academy module for managing trainings:
             - training course
             - training session
