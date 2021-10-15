@@ -5,7 +5,7 @@
 
 
 # 2000 - IS902_INDUSTRIA DEL SOFTWARE
-Impartida por el * Ing. Elmer Danuary Padilla Sorto *
+Impartida por el *Ing. Elmer Danuary Padilla Sorto*
 
 # My_Module_OpenAcademy
 ## Modulo de entrenamiento, basado en un sistema de cursos para la clase de Industria del Software.
