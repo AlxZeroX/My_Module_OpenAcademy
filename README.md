@@ -1,9 +1,9 @@
 # My_Module_OpenAcademy
 <div align="center">
-    <img src="https://raw.githubusercontent.com/IS-UNAH/Project_Dientito-IS802/main/PNF/img/300px.png" width="300px"> </img> 
+    <img src="https://github.com/AlxZeroX/My_Module_OpenAcademy/blob/main/static/description/icon.png?raw=true" width="300px"> </img> 
 
 
-# 1900 - IS902_INDUSTRIA DEL SOFTWARE
+# 2000 - IS902_INDUSTRIA DEL SOFTWARE
 ## Modulo de entrenamiento, basado en un sistema de cursos para la clase de Industria del Software.
 
 ## **Alumno**
