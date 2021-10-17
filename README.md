@@ -16,7 +16,7 @@ Impartida por el *Ing. Elmer Danuary Padilla Sorto*
 | Cristian Alexander Martínez Ochoa | `20131015700` |
 
 ## **Video DEMO**
-| Nombre | Numero De Cuenta |
+| Plataforma | Link |
 |:-------------:| :-----:|
 | Youtube | `https://youtu.be/CcUSHboJaNs` |
 </div>
