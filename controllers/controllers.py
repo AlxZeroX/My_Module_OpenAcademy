@@ -2,20 +2,20 @@
 # from odoo import http
 
 
-# class OpenAcaed(http.Controller):
-#     @http.route('/open_acaed/open_acaed/', auth='public')
+# class Openacademy(http.Controller):
+#     @http.route('/open_academy/open_academy/', auth='public')
 #     def index(self, **kw):
 #         return "Hello, world"
 
-#     @http.route('/open_acaed/open_acaed/objects/', auth='public')
+#     @http.route('/open_academy/open_academy/objects/', auth='public')
 #     def list(self, **kw):
-#         return http.request.render('open_acaed.listing', {
-#             'root': '/open_acaed/open_acaed',
-#             'objects': http.request.env['open_acaed.open_acaed'].search([]),
+#         return http.request.render('openacademy.listing', {
+#             'root': '/open_academy/open_academy',
+#             'objects': http.request.env['open_academy.open_academy'].search([]),
 #         })
 
-#     @http.route('/open_acaed/open_acaed/objects/<model("open_acaed.open_acaed"):obj>/', auth='public')
+#     @http.route('/open_academy/open_academy/objects/<model("open_academy.open_academy"):obj>/', auth='public')
 #     def object(self, obj, **kw):
-#         return http.request.render('open_acaed.object', {
+#         return http.request.render('openacademy.object', {
 #             'object': obj
 #         })
