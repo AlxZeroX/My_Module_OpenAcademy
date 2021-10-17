@@ -15,3 +15,8 @@ Impartida por el *Ing. Elmer Danuary Padilla Sorto*
 |:-------------:| :-----:|
 | Cristian Alexander Martínez Ochoa | `20131015700` |
 </div>
+
+https://www.youtube.com/watch?v=CcUSHboJaNs
+
+<p dir="ltr" style="text-align:left;"><span style="font-size:13.6px;"><strong>Video:</strong></span></p>
+<p dir="ltr" style="text-align:left;"><a href="https://youtu.be/CcUSHboJaNs" target="_blank" style="background-color:rgb(255,255,255);font-size:.85rem;" rel="noreferrer noopener">https://youtu.be/CcUSHboJaNs</a><br></p>
