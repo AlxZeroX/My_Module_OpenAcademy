@@ -26,7 +26,6 @@
 
     # any module necessary for this one to work correctly
     'depends': ['base', 'board', 'website_slides'],
-    'images': ['static/description/banner.gif'],
 
     # always loaded
     'data': [
